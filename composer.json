@@ -8,7 +8,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
     "autoload": {
         "classmap": ["town.php","street.php","building.php","apartment.php"]
     }
