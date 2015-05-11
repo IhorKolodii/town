@@ -1,0 +1,12 @@
+{
+    "name": "igkey/town",
+    "description": "siple test town classes package",
+    "authors": [
+        {
+            "name": "Igor Kolodiy",
+            "email": "igkey@rambler.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
